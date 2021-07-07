@@ -1,2 +1,5 @@
-[tool.poetry.dependencies]
-checkov = "^2.0.240"
+[project]
+
+dependencies = [
+    "checkov>=2.0.0"
+]
