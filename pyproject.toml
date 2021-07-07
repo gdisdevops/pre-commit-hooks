@@ -1,0 +1,2 @@
+[tool.poetry.dependencies]
+checkov = "^2.0.240"
