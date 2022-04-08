@@ -1,4 +1,6 @@
 [project]
+name = "gdis pre-commit hooks"
+description = "Pre commit hooks set"
 requires-python = ">=3.6"
 dependencies = [
     "checkov>=2.0.267"
