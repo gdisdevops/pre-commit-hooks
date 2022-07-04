@@ -1,8 +1,0 @@
-[project]
-name = "gdis-pre-commit-hooks"
-description = "Pre commit hooks set"
-version = "0.1.4"
-requires-python = ">=3.6"
-dependencies = [
-    "checkov>=2.0.267"
-]
